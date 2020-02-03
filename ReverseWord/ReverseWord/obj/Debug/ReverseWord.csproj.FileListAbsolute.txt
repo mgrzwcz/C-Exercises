@@ -1,0 +1,6 @@
+C:\Users\Marcin\source\repos\ReverseWord\ReverseWord\bin\Debug\ReverseWord.exe.config
+C:\Users\Marcin\source\repos\ReverseWord\ReverseWord\bin\Debug\ReverseWord.exe
+C:\Users\Marcin\source\repos\ReverseWord\ReverseWord\bin\Debug\ReverseWord.pdb
+C:\Users\Marcin\source\repos\ReverseWord\ReverseWord\obj\Debug\ReverseWord.csprojAssemblyReference.cache
+C:\Users\Marcin\source\repos\ReverseWord\ReverseWord\obj\Debug\ReverseWord.exe
+C:\Users\Marcin\source\repos\ReverseWord\ReverseWord\obj\Debug\ReverseWord.pdb
