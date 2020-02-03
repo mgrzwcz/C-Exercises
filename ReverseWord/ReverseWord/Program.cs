@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace ReverseWord
 {
+
+    //Press CTRL + F5 to launch
     class Program
     {
         static void Main(string[] args)
