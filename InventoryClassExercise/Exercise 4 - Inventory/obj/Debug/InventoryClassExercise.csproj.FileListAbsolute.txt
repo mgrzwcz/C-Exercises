@@ -1,0 +1,6 @@
+C:\Users\Marcin\Desktop\C# Exercises\InventoryClassExercise\Exercise 4 - Inventory\bin\Debug\Exercise 4 - Inventory.exe.config
+C:\Users\Marcin\Desktop\C# Exercises\InventoryClassExercise\Exercise 4 - Inventory\bin\Debug\Exercise 4 - Inventory.exe
+C:\Users\Marcin\Desktop\C# Exercises\InventoryClassExercise\Exercise 4 - Inventory\bin\Debug\Exercise 4 - Inventory.pdb
+C:\Users\Marcin\Desktop\C# Exercises\InventoryClassExercise\Exercise 4 - Inventory\obj\Debug\InventoryClassExercise.csprojAssemblyReference.cache
+C:\Users\Marcin\Desktop\C# Exercises\InventoryClassExercise\Exercise 4 - Inventory\obj\Debug\Exercise 4 - Inventory.exe
+C:\Users\Marcin\Desktop\C# Exercises\InventoryClassExercise\Exercise 4 - Inventory\obj\Debug\Exercise 4 - Inventory.pdb
