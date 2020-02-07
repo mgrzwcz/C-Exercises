@@ -1,0 +1,6 @@
+C:\Users\Marcin\source\repos\Exercise 3 - Book\Exercise 3 - Book\bin\Debug\Exercise 3 - Book.exe.config
+C:\Users\Marcin\source\repos\Exercise 3 - Book\Exercise 3 - Book\bin\Debug\Exercise 3 - Book.exe
+C:\Users\Marcin\source\repos\Exercise 3 - Book\Exercise 3 - Book\bin\Debug\Exercise 3 - Book.pdb
+C:\Users\Marcin\source\repos\Exercise 3 - Book\Exercise 3 - Book\obj\Debug\Exercise 3 - Book.csprojAssemblyReference.cache
+C:\Users\Marcin\source\repos\Exercise 3 - Book\Exercise 3 - Book\obj\Debug\Exercise 3 - Book.exe
+C:\Users\Marcin\source\repos\Exercise 3 - Book\Exercise 3 - Book\obj\Debug\Exercise 3 - Book.pdb
