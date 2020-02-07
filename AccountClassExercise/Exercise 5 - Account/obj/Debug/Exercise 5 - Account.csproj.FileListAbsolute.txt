@@ -1,0 +1,6 @@
+C:\Users\Marcin\source\repos\Exercise 5 - Account\Exercise 5 - Account\bin\Debug\Exercise 5 - Account.exe.config
+C:\Users\Marcin\source\repos\Exercise 5 - Account\Exercise 5 - Account\bin\Debug\Exercise 5 - Account.exe
+C:\Users\Marcin\source\repos\Exercise 5 - Account\Exercise 5 - Account\bin\Debug\Exercise 5 - Account.pdb
+C:\Users\Marcin\source\repos\Exercise 5 - Account\Exercise 5 - Account\obj\Debug\Exercise 5 - Account.csprojAssemblyReference.cache
+C:\Users\Marcin\source\repos\Exercise 5 - Account\Exercise 5 - Account\obj\Debug\Exercise 5 - Account.exe
+C:\Users\Marcin\source\repos\Exercise 5 - Account\Exercise 5 - Account\obj\Debug\Exercise 5 - Account.pdb
