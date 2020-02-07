@@ -6,10 +6,15 @@ using System.Threading.Tasks;
 
 namespace ReverseWord
 {
-
-    //Press CTRL + F5 to launch
     class Program
     {
+
+        /*
+         * Write a program that asks the user to enter a word.  If the word entered has less than 7 characters, 
+         * then tell the user to re-enter a new word until there are at least 7 characters.
+         * Enhance the above program with a function that will reverse the word the user 
+         * has entered (assuming it has more than 7 characters).  Make sure you do not use any Reverse() functions offered by Microsoft.
+        */
         static void Main(string[] args)
         {
             bool loop = true;
